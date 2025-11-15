@@ -1,1 +1,1 @@
-"# Python" 
+Crazy, innit?
